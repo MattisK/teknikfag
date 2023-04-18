@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d95d918ba7da5c748805b32cb0bbb868
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bestiaryOpen: {instanceID: 0}
+  - StartWaveBtn: {instanceID: 0}
+  - towersMenu: {instanceID: 0}
+  - TowerSpotInPref: {instanceID: 0}
+  - TowerSpotOutPref: {instanceID: 0}
+  - EnemyOne: {fileID: 1572824269371150725, guid: f64027ad771396646850027ca8d8b5a5, type: 3}
+  - EnemyTwo: {fileID: 258687526155074313, guid: 478dc936ab164004299da1587955012e, type: 3}
+  - holdingTower: {instanceID: 0}
+  - deathScreen: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
