@@ -1,2 +1,4 @@
 # teknikfag
- Dette er kildekoden til vores Unity projekt, de mest bemærkelsesværdige filer er dem 
+ Dette er kildekoden til vores Unity projekt, for source-koden se teknikfag/Assets/Scripts og kig på de filer, der ikke slutter på .meta
+ 
+ For sprites/billeder, se i teknikfag/Assets/Sprites folderen, og se på de filer der ikke slutter på .meta
